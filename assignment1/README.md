@@ -9,7 +9,7 @@ Data fields
 -------
 * `Headlines`-String.e.g. `Writer Haruki Murakami plans archive at Japanese university`
 
-* `Times` - Int.e.g. `November 9, 2018`
+* `Times` - Data String.e.g. `November 9, 2018`
 * `Places`- String.e.g. `THOUSAND OAKS, Calif.`
 * `Links`- url.e.g. `https://apnews.com/02bebe042ba94f68b510b918d9fb6d04`
 * `Authors`-Srting.e.g. `By KRYSTA FAURIA and JONATHAN J. COOPER`
