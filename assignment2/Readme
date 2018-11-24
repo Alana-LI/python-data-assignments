@@ -1,24 +1,4 @@
-# python-data-assignments/assignment1/
-Ctrip Dataset
+Brief introduction
 ======
-Data Source
--------
-#This dataset contains top news in Associated Press on Ctrip website starting page:https://apnews.com/apf-topnews
-#如何从csv里读取单列
-Data fields
--------
-* `Headlines`-String.e.g. `Writer Haruki Murakami plans archive at Japanese university`
-
-* `Times` - Data String.e.g. `November 9, 2018`
-* `Places`- String.e.g. `THOUSAND OAKS, Calif.`
-* `Links`- url.e.g. `https://apnews.com/02bebe042ba94f68b510b918d9fb6d04`
-* `Authors`-Srting.e.g. `By KRYSTA FAURIA and JONATHAN J. COOPER`
-* `Tags`-String.e.g. `Los Angeles`
-
-Data Volume
-----------
-#190 rows 3 colums
-
-License
--------
-#CC 4.0
+# I analysed the Associated Press, I found the AP had released almost 200 the tag of top news within six days,and David Bauder is the author who reported the essay most.
+##There are some reports without author, because according to the Associated Press guildline,
